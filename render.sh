@@ -1,0 +1,1 @@
+manim -pql animations/eulerian_field.py Eulerian
